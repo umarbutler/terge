@@ -53,6 +53,7 @@ classifiers = [
 ]
 dependencies = [
     "torch",
+    "tqdm",
 ]
 
 [project.urls]
