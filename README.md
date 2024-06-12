@@ -1,6 +1,7 @@
 ![terge logo](https://github.com/umarbutler/terge/raw/main/assets/banner.svg)
+
 -----------------------------------------------------------------------------
-<a href="https://pypi.org/project/terge/" alt="PyPI Version"><img src="https://img.shields.io/pypi/v/terge"></a> <a href="https://github.com/umarbutler/terge/actions/workflows/ci.yml" alt="Build Status"><img src="https://img.shields.io/github/actions/workflow/status/umarbutler/terge/ci.yml?branch=main"></a> <a href="https://app.codecov.io/gh/umarbutler/terge" alt="Code Coverage"><img src="https://img.shields.io/codecov/c/github/umarbutler/terge"></a> <!-- <a href="https://pypistats.org/packages/terge" alt="Downloads"><img src="https://img.shields.io/pypi/dm/terge"></a> -->
+<p align="center"><a href="https://pypi.org/project/terge/" alt="PyPI Version"><img src="https://img.shields.io/pypi/v/terge"></a> <a href="https://github.com/umarbutler/terge/actions/workflows/ci.yml" alt="Build Status"><img src="https://img.shields.io/github/actions/workflow/status/umarbutler/terge/ci.yml?branch=main"></a> <a href="https://app.codecov.io/gh/umarbutler/terge" alt="Code Coverage"><img src="https://img.shields.io/codecov/c/github/umarbutler/terge"></a> <!-- <a href="https://pypistats.org/packages/terge" alt="Downloads"><img src="https://img.shields.io/pypi/dm/terge"></a> --> </p>
 
 terge is an *easy-to-use* Python library for merging PyTorch models. It works with models of any size and architecture, including Hugging Face 🤗 Transformers.
 
@@ -140,3 +141,5 @@ terge adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and [S
 
 ## License 📜
 terge is licensed under the [MIT License](https://github.com/umarbutler/terge/blob/main/LICENSE).
+
+[^1]: dd
