@@ -35,7 +35,7 @@ def test_merge():
     """Test `merge()`."""
 
     n_models = 3
-    models = [TergeModel().cuda() for _ in range(n_models)]
+    models = [TergeModel() for _ in range(n_models)]
     base_index = 1
     base = models[base_index]
     abs_tolerance = 1e-8
