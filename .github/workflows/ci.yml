@@ -38,6 +38,7 @@ jobs:
         pytest --cov=terge --cov-report=xml
 
     - name: Use Codecov to track coverage
-      uses: codecov/codecov-action@v3
+      uses: codecov/codecov-action@v4.0.1
       with:
         files: ./coverage.xml
+        token: ${{ secrets.CODECOV_TOKEN }}
