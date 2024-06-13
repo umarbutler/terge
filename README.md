@@ -141,5 +141,3 @@ terge adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and [S
 
 ## License 📜
 terge is licensed under the [MIT License](https://github.com/umarbutler/terge/blob/main/LICENSE).
-
-[^1]: dd
